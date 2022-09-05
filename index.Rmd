@@ -1,0 +1,23 @@
+---
+title: "Introuducing myself"
+output: html_document
+---
+This website contains a short introduction of Jing Wang for Biostat 776 course.
+
+## About Me
+I am a Second-year MHS student in the Department of Epidemiology. Before coming to BSPH, I earned my BS degrees in Psychology and Health, Society & Policy at the University of Utah. I am currently working as an RA at the Center for Immunization Research.
+
+During my undergraduate, I used SPSS for my psychology research. I have taken an introductory course for SAS, so I am familiar with SAS. I haven't used R before, where I mostly used STATA for data analysis.
+
+## Research Interests 
+I am interested in the combination of both environmental and infectious disease epidemiology. Specifically, the association between environmental risk factors and neurodevelopmental disorders such as autism or vector-borne diseases such as dengue. 
+
+## Five fun facts
+1. I enjoy staying up late to watch shows.
+2. My personality type test indicates I am ISFJ, but I don't really agree. 
+3. I don't like chocolate and anything with chocolate flavors.
+4. I like most things that are green.
+5. I enjoy eating different types of food from different countries.
+
+## Learning Goals
+In this class, I hope to learn some basic programming and computer skills to better work on projects and research. I wish to get some practical training in R.
